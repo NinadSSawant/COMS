@@ -1,0 +1,54 @@
+tableId,order_id,product_name,quanlity,unit_price,total_price,time,date,day,month,year
+,,,,,,,,,,
+1,1,Vegetables + Vegetables Pizza,3,350,1050,26-10-2023,1.48.34 PM,26,October,2023
+1,2,The Spinach Pesto Pizza,2,200,400,26-10-2023,1.48.36 PM,26,October,2023
+1,3,The Hawaiian Pizza,4,250,1000,26-10-2023,1.48.38 PM,26,October,2023
+1,4,Barbacue Chicken Pizza,1,300,300,26-10-2023,1.48.39 PM,26,October,2023
+1,5,Vegetables + Vegetables Pizza,3,350,1050,26-10-2023,1.48.41 PM,26,October,2023
+2,6,Barbacue Chicken Pizza,1,300,300,26-10-2023,1.48.48 PM,26,October,2023
+2,7,Coke,1,50,50,26-10-2023,1.48.49 PM,26,October,2023
+2,8,The Hawaiian Pizza,1,250,250,26-10-2023,1.48.51 PM,26,October,2023
+2,9,Coke,1,50,50,26-10-2023,1.48.53 PM,26,October,2023
+2,10,Vegetables + Vegetables Pizza,1,350,350,26-10-2023,1.48.55 PM,26,October,2023
+2,11,The Spinach Pesto Pizza,1,200,200,26-10-2023,1.48.57 PM,26,October,2023
+1,12,Latte,3,100,300,26-10-2023,3.23.48 PM,26,October,2023
+1,13,Coke,4,50,200,26-10-2023,3.28.39 PM,26,October,2023
+2,14,Latte,5,100,500,26-10-2023,3.30.00 PM,26,October,2023
+2,15,The Hawaiian Pizza,2,250,500,26-10-2023,3.33.00 PM,26,October,2023
+2,16,The Hawaiian Pizza,3,250,750,26-10-2023,3.34.18 PM,26,October,2023
+2,17,The Spinach Pesto Pizza,1,200,200,26-10-2023,3.34.31 PM,26,October,2023
+2,18,Latte,2,100,200,26-10-2023,3.40.07 PM,26,October,2023
+2,19,Latte,2,100,200,26-10-2023,3.40.09 PM,26,October,2023
+2,20,Coke,1,50,50,26-10-2023,3.40.49 PM,26,October,2023
+2,21,Coke,1,50,50,26-10-2023,3.41.02 PM,26,October,2023
+2,22,Coke,1,50,50,26-10-2023,3.41.05 PM,26,October,2023
+2,23,Coke,1,50,50,26-10-2023,3.41.05 PM,26,October,2023
+2,24,Coke,1,50,50,26-10-2023,3.41.06 PM,26,October,2023
+2,25,Barbacue Chicken Pizza,1,300,300,26-10-2023,3.41.10 PM,26,October,2023
+2,26,Barbacue Chicken Pizza,1,300,300,26-10-2023,3.41.11 PM,26,October,2023
+2,27,Barbacue Chicken Pizza,1,300,300,26-10-2023,3.41.11 PM,26,October,2023
+2,28,Barbacue Chicken Pizza,1,300,300,26-10-2023,3.41.11 PM,26,October,2023
+2,29,Barbacue Chicken Pizza,1,300,300,26-10-2023,3.41.12 PM,26,October,2023
+2,30,Barbacue Chicken Pizza,1,300,300,26-10-2023,3.41.12 PM,26,October,2023
+2,31,Barbacue Chicken Pizza,1,300,300,26-10-2023,3.41.12 PM,26,October,2023
+2,32,Barbacue Chicken Pizza,1,300,300,26-10-2023,3.41.12 PM,26,October,2023
+2,33,Vegetables + Vegetables Pizza,1,350,350,26-10-2023,3.41.16 PM,26,October,2023
+2,34,Vegetables + Vegetables Pizza,1,350,350,26-10-2023,3.41.16 PM,26,October,2023
+2,35,Vegetables + Vegetables Pizza,1,350,350,26-10-2023,3.41.16 PM,26,October,2023
+2,36,Vegetables + Vegetables Pizza,1,350,350,26-10-2023,3.41.16 PM,26,October,2023
+2,37,Vegetables + Vegetables Pizza,1,350,350,26-10-2023,3.41.17 PM,26,October,2023
+2,38,Vegetables + Vegetables Pizza,1,350,350,26-10-2023,3.41.17 PM,26,October,2023
+2,39,Vegetables + Vegetables Pizza,1,350,350,26-10-2023,3.41.18 PM,26,October,2023
+1,40,California Chicken Pizza,1,350,350,26-10-2023,3.43.23 PM,26,October,2023
+2,41,California Chicken Pizza,2,350,700,26-10-2023,3.52.48 PM,26,October,2023
+2,42,California Chicken Pizza,2,350,700,26-10-2023,3.52.49 PM,26,October,2023
+1,43,Coke,1,50,50,26-10-2023,4.04.11 PM,26,October,2023
+1,44,Latte,4,100,400,26-10-2023,4.04.50 PM,26,October,2023
+1,45,Coke,3,50,150,26-10-2023,4.08.50 PM,26,October,2023
+1,46,California Chicken Pizza,1,350,350,26-10-2023,4.10.33 PM,26,October,2023
+1,47,The Hawaiian Pizza,1,250,250,26-10-2023,4.11.36 PM,26,October,2023
+1,48,Latte,7,100,700,26-10-2023,4.11.43 PM,26,October,2023
+1,49,Coke,1,50,50,26-10-2023,4.12.01 PM,26,October,2023
+1,50,The Hawaiian Pizza,8,250,2000,26-10-2023,4.12.22 PM,26,October,2023
+1,51,Latte,3,100,300,26-10-2023,4.15.24 PM,26,October,2023
+1,52,Coke,3,50,150,26-10-2023,4.16.02 PM,26,October,2023
